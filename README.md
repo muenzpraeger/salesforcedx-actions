@@ -1,6 +1,6 @@
-# salesforcedx-actions
+# salesforcedx-github-actions
 
-(Unofficial) GitHub Actions for SalesforceDX using the Salesforce CLI.
+Fork of the (Unofficial) GitHub Actions for SalesforceDX using the Salesforce CLI project on [forcedotcom](https://github.com/forcedotcom/salesforcedx-actions).
 
 It passes the contents of the `arg` parameter to the underlying Salesforce CLI
 in the Docker container.
